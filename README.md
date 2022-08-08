@@ -1,2 +1,15 @@
 # basic.js
-A 2D Game Engine
+### Instructions
+
+this game engine is very basic as the name suggest all the documentation will be soon avaible
+---------
+this is the boilerplate
+```javascript 
+let canvas = createCanvas("canvas", 400, 400, body);
+function update(){
+  // here code which should be run in repeate goes here
+}
+
+setBackground(canvas, "gray");
+loop(update);
+```
