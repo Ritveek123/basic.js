@@ -1,7 +1,7 @@
 # basic.js
 ### Instructions
 
-this game engine is very basic as the name suggest all the documentation will be soon avaible
+  this game engine is very basic as the name suggest all the documentation will be soon avaible
 ---------
 this is the boilerplate
 ```javascript 
