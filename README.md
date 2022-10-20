@@ -1,7 +1,7 @@
 # basic.js
 ### Instructions
 
-  this game engine is very basic as the name suggest all the documentation is available but is still in devlopement
+  this game engine is very basic as the name suggest all the documentation is available now
   here is the link https://ritveek123.github.io/basic.js.docs/documentation.html
   
 boilerplate code
